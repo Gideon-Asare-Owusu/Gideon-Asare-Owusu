@@ -22,7 +22,7 @@
 
 
 
-<h3 align="left">Technical Skills & Tools:</h3> 
+<h3 align="left">Languages & Tools:</h3> 
 
 <p align="left" class="icon-container">
   <a href="https://www.python.org" target="_blank" title="Python">
@@ -43,4 +43,7 @@
   <br><br>
   
 
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gideon-asare-owusu&show_icons=true&locale=en&layout=compact" alt="gideon-asare-owusu" /></p>
 
